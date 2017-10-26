@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="distancesList">
+        <item>@string/tinyDistance</item>
+        <item>@string/smallDistance</item>
+        <item>@string/mediumDistance</item>
+        <item>@string/largeDistance</item>
+    </string-array>
+
+</resources>

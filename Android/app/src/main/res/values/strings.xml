@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TasteBuddy</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_searcher">Searcher</string>
+    <string name="searcherTitle">Ask a bro out for a taste!</string>
+    <string name="EditTextQueryTermText">Enter your query here</string>
+
+    <string name="distanceChooserText">Choose tasty distance</string>
+    <string name="spamCheckboxText">Subscribe to spam distributors?</string>
+    <string name="searchButtonText">Search!</string>
+
+    <!-- distances-->
+    <string name="largeDistance">10 km</string>
+    <string name="mediumDistance">5 km</string>
+    <string name="smallDistance">2 km</string>
+    <string name="tinyDistance">500 meters</string>
+
+</resources>
